@@ -9,3 +9,5 @@ Final project for Udemy course
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
+This Code has been deployed using heroku and the code corresponds to heroku databases.
+Read on heroku documentation [here] (https://devcenter.heroku.com/)
